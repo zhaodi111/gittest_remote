@@ -4,9 +4,3 @@ bbbbb
 11111111111
 ccccc
 dddd
-eeeeeeefor dev
-<<<<<<< HEAD
-yyy on master
-=======
-xxxx add on dev
->>>>>>> dev
